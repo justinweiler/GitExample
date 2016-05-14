@@ -14,8 +14,8 @@ namespace GitExample
             Console.WriteLine("feature 2");
             Console.WriteLine("feature 3");
             Console.WriteLine("feature 4");
-            Console.WriteLine("feature 10");
-            Console.WriteLine("feature 9");
+            Console.WriteLine("feature 11");
+            Console.WriteLine("feature 11");
         }
     }
 }
