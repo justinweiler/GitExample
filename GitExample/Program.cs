@@ -10,11 +10,11 @@ namespace GitExample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("feature 1");
             Console.WriteLine("Hello World");
             Console.WriteLine("feature 2");
             Console.WriteLine("feature 3");
             Console.WriteLine("feature 4");
+            Console.WriteLine("feature 5");
         }
     }
 }
